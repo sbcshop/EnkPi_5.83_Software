@@ -29,7 +29,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr3.jpg" />
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr4.jpg" />
    
-   In similar way you can add various python code files to Pico. Also to try out sample codes given here in [examples folder](https://github.com/sbcshop/EnkPi_7.5_Software/tree/main/examples) you need to save library files from [lib](https://github.com/sbcshop/EnkPi_7.5_Software/tree/main/lib) folder into Pico W of EnkPi.
+   In similar way you can add various python code files to Pico. Also to try out sample codes given here in [examples folder](https://github.com/sbcshop/EnkPi_5.83_Software/tree/main/examples) you need to save library files from [lib](https://github.com/sbcshop/EnkPi_5.83_Software/tree/main/lib) folder into Pico W of EnkPi.
    
    To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_5in83.py](https://github.com/sbcshop/EnkPi_5.83_Software/blob/main/lib/EnkPi_5in83.py), [pics.py](https://github.com/sbcshop/EnkPi_5.83_Software/blob/main/lib/pics.py)
 
@@ -48,14 +48,14 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 
 
 ## Related Products
+   ![EnkPi2_9]()
+   * [EnkPi 2.9"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297401427) - EnkPi with 2.9" E-paper display size
+   
    ![EnkPi4_2]() 
    * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
  
-   ![EnkPi5_83]()
-   * [EnkPi 5.83"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297466963) - EnkPi with 5.83" E-paper display size
-
-   ![EnkPi2_9]()
-   * [EnkPi 2.9"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297401427) - EnkPi with 2.9" E-paper display size
+   ![EnkPi7_5]()
+   * [EnkPi 7.5"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297499731) - EnkPi with 7.5" E-paper display size
  
    ![Universal_E-paper_HAT]()
    * [Universal E-paper HAT]() - Universal E-paper Pico HAT to connect epaper display like 2.9", 4.2", 5.83" & 7.5"  
