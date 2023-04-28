@@ -43,8 +43,8 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
    Now you are ready to try out your own codes, **_Happy Coding!_**
 
 ## Documentation
-  * [Schematic](https://github.com/sbcshop/EnkPi_5.83_Hardware/blob/main/Design%20Data/SCH%20Enk%20Pi%202.9%20INCH.pdf)
-  * [Hardware Data](https://github.com/sbcshop/EnkPi_5.83_Hardware#enkpi_583_hardware)
+  * [EnkPi 5.83" Schematic](https://github.com/sbcshop/EnkPi_5.83_Hardware/blob/main/Design%20Data/SCH%20Enk%20Pi%202.9%20INCH.pdf)
+  * [EnkPi 5.83" Hardware](https://github.com/sbcshop/EnkPi_5.83_Hardware#enkpi_583_hardware)
   * [MicroPython getting started for RPI](https://docs.micropython.org/en/latest/rp2/quickref.html)
   * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
 
