@@ -1,10 +1,21 @@
 # EnkPi_5.83_Software
 
-### EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users.
+EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users.
 Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Support with up to 170 degrees Wide Viewing Angle. In this github repo will see setup and getting started guide for EnkPi 5.83" series.
 
-<img src= "https://github.com/sbcshop/EnkPi_5.83_Software/blob/main/images/EnkPi_5_83.jpg " width = "300" height = "250" />
 <img src= "https://github.com/sbcshop/EnkPi_5.83_Software/blob/main/images/pinout_5_83.jpg" />
+
+### Pinouts:
+1.	6 User buttons
+2.	5.83” E-Paper Display
+3.	Raspberry Pi Pico W
+4.	Type C
+5.	Micro SD card slot
+6.	JST 2mm Female 1x8 Pin 
+7.	Coin Holder CR1220 for RTC 
+8.	FPC connector for E-paper
+9.	Batter connector
+10. Buzzer
 
 ## Getting Started with EnkPi
 ### 1. Step to install boot Firmware
